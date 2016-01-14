@@ -1,3 +1,18 @@
+# md file except readme
+*.md
+!README.md
+
+# output file
 *.pdf
+
+# bak
+*.bak
 *~
+
+# mac
 .DS_Store
+
+# tex
+*.aux
+*.log
+*.out
